@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+      "baseUrl": "src"
+    },
+    "include": ["src"]
+}
+// makes it so when u important diff files, u can just start from source
